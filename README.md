@@ -1,2 +1,2 @@
 # test-for-portfolio
-![Example Image](example.png)
+![Example Image](untitled.png)
